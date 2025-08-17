@@ -22,5 +22,6 @@ let person = { // #5
 };
 console.log("Person Object:", person);
 
-let colors = ["red", "blue", "green", "yellow", "blue"]; // #6
+let colors = ["red", "blue", "green", "yellow", "orange"]; // #6
 console.log("Colors Array:", colors); 
+
